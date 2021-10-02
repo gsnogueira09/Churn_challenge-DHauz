@@ -8,3 +8,4 @@ Neste repositório estão adicionados os seguintes arquivos:
 5) script contendo o pré-processamento e o desenvolvimento do modelo preditivo em python (model_selection_DHAUZ.ipynb)
 
 Para a compreensão do raciocínio proposto para a resolução do exercício, sugiro a verificação nesta ordem.
+As visualições em PDF foram adicionadas a fim de facilitar a avaliação, mas todas estão acessíveis pelo script R.
