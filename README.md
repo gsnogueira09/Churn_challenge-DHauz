@@ -18,5 +18,5 @@ In this repository are attached the following files:
 Main conclusions:
 1) Customers tend to churn mainly between the sixth an the ninth month after hiring the service. There is another trend between 15 and 25 months, but it is lower.
 2) Customers that call to Customer Care tend to churn.
-3) The efficiency of the service (a rate between attempted and completed calls) does not have influence in the churn rate.
+3) The efficiency of the service (a rate between attempted and completed calls) does not have influence on the churn rate.
 4) Churn rate is similar in different regions.
